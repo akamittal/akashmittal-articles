@@ -1,0 +1,20 @@
+{
+  "name": "akashmittal-articles",
+  "version": "1.0.0",
+  "description": "Get the list of links of all the articles of akashmittal.com",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akamittal/akashmittal-articles.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["articles", "technology", "javascript", "reactjs", "python"],
+  "author": "Akash Mittal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fast-xml-parser": "^4.0.9"
+  }
+}
