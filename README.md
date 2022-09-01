@@ -1,6 +1,6 @@
 # akashmittal-articles
 
-<a href="https://akashmittal.com">akashmittal.com</a>
+<a href="https://akashmittal.com" rel="dofollow">akashmittal.com</a>
 
 Get a list of articles published on [AkashMittal.com](https://akashmittal.com). 
 
